@@ -20,6 +20,7 @@
 
 
 */
+//本程序地址：https://github.com/ghostxiu/staic_Test
 #include<iostream>
 using namespace std;
 int main()
@@ -55,3 +56,4 @@ int main()
 	}
 	return 0 ;
 }
+//By Ghostxiu 2018/3/29
